@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+twine = "*"
+
+[packages]
+pygramtic = "<=0.2"
+aiohttp = "==3.5.4"
+
+[requires]
+python_version = "3.7"
