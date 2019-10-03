@@ -7,7 +7,7 @@ verify_ssl = true
 twine = "*"
 
 [packages]
-pygramtic = "<=0.2"
+pygramtic = "==0.1.4"
 aiohttp = "==3.5.4"
 
 [requires]
