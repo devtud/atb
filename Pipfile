@@ -8,7 +8,7 @@ twine = "*"
 
 [packages]
 pygramtic = "==0.1.4"
-aiohttp = "==3.5.4"
+aiohttp = "==3.7.4"
 
 [requires]
 python_version = "3.7"
